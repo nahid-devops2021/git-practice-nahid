@@ -9,3 +9,5 @@ from utils import add, subtract, multiply
 print("2 + 3 =", add(2, 3))
 print("5 - 2 =", subtract(5, 2))
 print("2 * 3 =", multiply(2, 3))
+print("20 / 2 =", divide(20, 2))
+print("20 / 0 =", divide(20, 0))
