@@ -1,6 +1,6 @@
-Project Title: Git & GitHub Practical Assignment
+1. Project Title: Git & GitHub Practical Assignment
 
-Name: Nahid Hasan
+2. Name: Nahid Hasan
 
-Purpose: This project demonstrates Git & GitHub practical tasks.
+3. Purpose: This project demonstrates Git & GitHub practical tasks.
 
